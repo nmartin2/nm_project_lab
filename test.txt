@@ -2,3 +2,6 @@ Another line!
 "ASDF" 
 new branch! woo!
 Hello?
+Thanks for coming to class
+I hope
+You have a nice day! :)
